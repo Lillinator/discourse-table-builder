@@ -24,10 +24,10 @@ en:
         trigger_reason: "Add reason for edit"
       default_edit_reason: "Update Table with Table Editor"
     default_header:
-      col_1: "Column 1"
-      col_2: "Column 2"
-      col_3: "Column 3"
-      col_4: "Column 4"
+      col_1: ""
+      col_2: ""
+      col_3: ""
+      col_4: ""
     spreadsheet:
       no_records_found: "No records found"
       showing_page: "Showing page {0} of {1} entries"
